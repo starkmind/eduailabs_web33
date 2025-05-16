@@ -194,7 +194,7 @@ export default function Home() {
 
   const handleInstallClick = () => {
     // 크롬 익스텐션 스토어나 다운로드 페이지로 이동
-    window.open('https://chrome.google.com/webstore/category/extensions', '_blank');
+    window.open('https://chromewebstore.google.com/detail/ekkfnmjdnldelhjpfjdinondddmabnci?utm_source=item-share-cb', '_blank');
   }
 
   const handleLearnMoreClick = () => {
